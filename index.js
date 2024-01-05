@@ -1,2 +1,5 @@
 console.log('heeellooo world')
-i dont know what the fuck i am doing.
+
+function add(){
+    return 2+2
+}
